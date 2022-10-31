@@ -544,6 +544,11 @@ footer {
         margin: 0;
         box-sizing: border-box;
     }
+    
+     body {
+
+        overflow-x: hidden;
+    }
 
 
 
@@ -628,7 +633,7 @@ footer {
         left: 39px;
         top: 625px;
         border-radius: 0px;
-        transform: translate(126px, 97px);
+        transform: translate(126px, 337px);
         ;
 
         opacity: 0.75;
